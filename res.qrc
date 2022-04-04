@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Racket.bmp</file>
+        <file>Table.bmp</file>
+        <file>AskhatCat.bmp</file>
+        <file>Racket.png</file>
+        <file>Table.png</file>
+        <file>AskhatCat.png</file>
+        <file>an.png</file>
+    </qresource>
+</RCC>
